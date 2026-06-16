@@ -1,4 +1,4 @@
 # prueba2
 - Versión: 1.0
 - Estado: en desarrollo
-- Autor: DESCONOCIDO
+- Autor: FERNANDO LIMA
